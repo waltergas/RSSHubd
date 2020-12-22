@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/test.js": {
+    "api/now.js": {
       "maxDuration": 1
     }
   }
