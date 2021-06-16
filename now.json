@@ -2,7 +2,7 @@
     "version": 2,
     "functions": {
     "api/now.js": {
-      "maxDuration": 7
+      "maxDuration": 6
     }
   },
     "routes": [
